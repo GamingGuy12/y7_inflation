@@ -1,2 +1,2 @@
 # y7_inflation
-y7 Inflation reallll
+note: since aung thant hasn't updated the index.html in the onedrive, i don't have the finished version

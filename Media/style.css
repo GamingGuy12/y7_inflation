@@ -1,0 +1,59 @@
+<style type="text/css">
+		#navebar a{color:green;
+			font-size: 2em;
+			text-decoration:none;
+			background:greenyellow;
+			margin:auto;
+			display:inline-block;
+			padding: 15px 20px;
+			height: 10vh;
+			broder-radius: 20%;
+
+
+		}
+		#navbar {background:lightgreen;
+				height: 10vh;
+				overflow:hidden;
+
+		}
+		#navbar a:hover{
+			background:linear-gradiant(45deg,olivegreen,darkolivegreen);
+		}
+
+		p{
+			border:1px solid black;
+			height:30vh;
+		}
+
+		#video{
+			color: darkgreen;
+			text-align: center;
+			font-family: "Calibri";
+		}
+
+		#mytable{
+			border: 2px blueviolet;
+			border-collapse: collapse;
+			table-layout: fixed;
+			width: 100%;
+		}
+
+		#mytable td{
+			border: 2px blueviolet;
+		}
+		thead{
+			background: violet;
+		}
+		#first{
+			background: red;
+		}
+
+		#mytable2{
+			border: 10px solid blueviolet;
+			border-collapse: collapse;
+		}
+
+		#mytable2 td{
+            border: 10px solid blueviolet;
+        }
+</style>
